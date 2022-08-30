@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97377679882",
+    "project_id": "twitter-clonning-act",
+    "storage_bucket": "twitter-clonning-act.appspot.com"
+  },
+  "client": [ 
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97377679882:android:49c02d52445e6a8137bdf3",
+        "android_client_info": {
+          "package_name": "com.caballeroshie.tweet_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97377679882-so4423ia2oee16qmk6adokvd1pmg5muu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK-3zz2QnSYrXZNw7xcV_ZE7ZZe7YnMnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97377679882-so4423ia2oee16qmk6adokvd1pmg5muu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
